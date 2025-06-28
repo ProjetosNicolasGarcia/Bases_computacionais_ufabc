@@ -1,0 +1,11 @@
+ID,Produto,Categoria,Preco_Unitario,Quantidade,Loja,Data
+1,Arroz,Cereais,5.49,2,Supermercado A,2025-06-15
+2,Detergente,Limpeza,2.99,3,Supermercado B,2025-06-16
+3,Leite,Laticínios,4.79,1,Supermercado C,2025-06-17
+4,Feijão,Cereais,6.99,2,Supermercado A,2025-06-18
+5,Papel Higiênico,Higiene,10.9,1,Supermercado B,2025-06-19
+6,Maçã,Frutas,3.25,5,Supermercado C,2025-06-20
+7,Refrigerante,Bebidas,7.5,2,Supermercado A,2025-06-21
+8,Frango,Carnes,12.99,1,Supermercado B,2025-06-22
+9,Shampoo,Higiene,15.9,1,Supermercado C,2025-06-23
+10,Pão de Forma,Padaria,6.75,2,Supermercado A,2025-06-24
